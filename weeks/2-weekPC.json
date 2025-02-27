@@ -1,0 +1,28 @@
+{
+	"storyName": "Party Crashers",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "1-tutorial-toad",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		["Dreamland", "vernias", [255, 158, 209]],
+		["Sophisticated", "sophist", [102, 62, 167]],
+		["Toxic", "nick", [253, 183, 58]],
+		["Brentster", "brent", [50, 81, 43]],
+		["Crash Course", "toxtar", [77, 57, 129]]
+	],
+	"hideStoryMode": false,
+	"weekName": "Party Crashers",
+	"hiddenUntilUnlocked": false
+}

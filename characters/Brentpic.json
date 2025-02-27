@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Brentneutral",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Brentdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				159
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Brentup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				129
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Brentright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Brentleft",
+			"indices": []
+		}
+	],
+	"noteSkin": "brent",
+	"vocals_file": "brent",
+	"no_antialiasing": false,
+	"image": "characters/Brentpic",
+	"position": [
+		-40,
+		320
+	],
+	"healthicon": "brentpic",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		207,
+		160
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

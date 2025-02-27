@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Brent Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Brent Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Brent Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Brent Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Brent Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "brent",
+	"no_antialiasing": false,
+	"image": "characters/Brent Sprites",
+	"position": [
+		-90,
+		-140
+	],
+	"healthicon": "brent",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		81,
+		43
+	],
+	"camera_position": [
+		0,
+		35
+	],
+	"noteSkin": "brent",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nick.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TcDown0000" x="0" y="0" width="571" height="293" frameX="0" frameY="-174" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0001" x="0" y="0" width="571" height="293" frameX="0" frameY="-174" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0002" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0003" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0004" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0005" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0006" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0007" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0008" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0009" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0010" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0011" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0012" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcDown0013" x="571" y="0" width="488" height="466" frameX="-40" frameY="0" frameWidth="571" frameHeight="467"/>
+	<SubTexture name="TcLeft0000" x="1059" y="0" width="491" height="427"/>
+	<SubTexture name="TcLeft0001" x="1059" y="0" width="491" height="427"/>
+	<SubTexture name="TcLeft0002" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0003" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0004" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0005" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0006" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0007" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0008" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0009" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0010" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0011" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0012" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcLeft0013" x="1550" y="0" width="426" height="427" frameX="-65" frameY="0" frameWidth="491" frameHeight="427"/>
+	<SubTexture name="TcNeutral0000" x="0" y="466" width="417" height="417" frameX="0" frameY="-19" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0001" x="0" y="466" width="417" height="417" frameX="0" frameY="-19" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0002" x="417" y="466" width="452" height="452" frameX="-7" frameY="-15" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0003" x="417" y="466" width="452" height="452" frameX="-7" frameY="-15" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0004" x="869" y="466" width="412" height="413" frameX="-7" frameY="-3" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0005" x="869" y="466" width="412" height="413" frameX="-7" frameY="-3" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0006" x="1281" y="466" width="402" height="402" frameX="-7" frameY="-1" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0007" x="1281" y="466" width="402" height="402" frameX="-7" frameY="-1" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0008" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0009" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0010" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0011" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0012" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcNeutral0013" x="0" y="918" width="400" height="400" frameX="-7" frameY="0" frameWidth="459" frameHeight="467"/>
+	<SubTexture name="TcRight0000" x="400" y="918" width="521" height="431"/>
+	<SubTexture name="TcRight0001" x="400" y="918" width="521" height="431"/>
+	<SubTexture name="TcRight0002" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0003" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0004" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0005" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0006" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0007" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0008" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0009" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0010" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0011" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0012" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcRight0013" x="921" y="918" width="427" height="431" frameX="0" frameY="0" frameWidth="521" frameHeight="431"/>
+	<SubTexture name="TcUp0000" x="1348" y="918" width="288" height="718" frameX="-15" frameY="0" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0001" x="1348" y="918" width="288" height="718" frameX="-15" frameY="0" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0002" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0003" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0004" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0005" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0006" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0007" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0008" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0009" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0010" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0011" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0012" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+	<SubTexture name="TcUp0013" x="1636" y="918" width="317" height="700" frameX="0" frameY="-18" frameWidth="317" frameHeight="718"/>
+</TextureAtlas>

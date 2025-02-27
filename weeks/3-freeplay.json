@@ -1,0 +1,31 @@
+{
+	"storyName": "Party Crashers Freeplay",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2-weekPC",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		["Vern Vinyl", "vinyl", [210, 47, 86]],
+		["Sussy Slide", "red", [255, 0, 0]],
+		["Poison Jab", "poisonJab", [255, 255, 255]],
+		["King Pin", "matt", [252, 134, 47]],
+		["Cursed Die", "sophist", [102, 62, 167]],
+		["Perfect Rotation", "vernias", [255, 158, 209]],
+		["No Brainer", "nick", [253, 183, 58]],
+		["Wario Time", "WARIO", [252, 231, 0]],
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

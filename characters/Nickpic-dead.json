@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-213
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Nickdiestart",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-185
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Nickdieloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-130
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Nickdeathcomfirm",
+			"indices": []
+		}
+	],
+	"vocals_file": "nick",
+	"no_antialiasing": false,
+	"image": "characters/Nickpic_dead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nickpic",
+	"flip_x": true,
+	"healthbar_colors": [
+		238,
+		238,
+		238
+	],
+	"camera_position": [
+		10,
+		160
+	],
+	"noteSkin": "nick",
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

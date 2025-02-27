@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-17,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				34,
+				382
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				327
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				333
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				324
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
+		},
+		{
+			"offsets": [
+				100,
+				410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "hit"
+		}
+	],
+	"vocals_file": "opps",
+	"no_antialiasing": false,
+	"image": "characters/Vernias_Angy",
+	"position": [
+		-10,
+		390
+	],
+	"healthicon": "vernias-angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		158,
+		209
+	],
+	"camera_position": [
+		50,
+		-270
+	],
+	"noteSkin": "vernias",
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

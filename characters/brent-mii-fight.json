@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Brentster Mii Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Brentster Mii Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Brentster Mii Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Brentster Mii Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Brentster Mii Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Brentster Mii Lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-51
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Brentster Mii Dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Brentster Mii Rmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				32
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Brentster Mii UMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				6
+			],
+			"anim": "hitUp",
+			"fps": 24,
+			"name": "Brentster Mii Uhit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-59
+			],
+			"anim": "hitDown",
+			"fps": 24,
+			"name": "Brentster Mii Dhit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				3
+			],
+			"anim": "hitRight",
+			"fps": 24,
+			"name": "Brentster Mii Rhit",
+			"indices": []
+		}
+	],
+	"vocals_file": "brent",
+	"no_antialiasing": false,
+	"image": "characters/Brentster Mii",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "brent",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		81,
+		43
+	],
+	"camera_position": [
+		90,
+		50
+	],
+	"noteSkin": "brent-mii",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

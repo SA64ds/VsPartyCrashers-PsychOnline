@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "sophist",
+	"no_antialiasing": false,
+	"image": "characters/sophist-icon",
+	"position": [
+		-530,
+		-330
+	],
+	"healthicon": "sophist-angy",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		0,
+		175
+	],
+	"camera_position": [
+		80,
+		320
+	],
+	"noteSkin": "sophist",
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

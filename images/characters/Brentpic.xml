@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Brentpic.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Brentdown0000" x="60" y="1192" width="669" height="315" frameX="0" frameY="-43" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0001" x="60" y="1192" width="669" height="315" frameX="0" frameY="-43" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0002" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0003" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0004" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0005" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0006" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0007" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0008" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0009" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0010" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0011" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0012" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentdown0013" x="60" y="1567" width="582" height="359" frameX="-43" frameY="0" frameWidth="669" frameHeight="359"/>
+	<SubTexture name="Brentleft0000" x="60" y="651" width="559" height="481"/>
+	<SubTexture name="Brentleft0001" x="60" y="651" width="559" height="481"/>
+	<SubTexture name="Brentleft0002" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0003" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0004" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0005" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0006" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0007" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0008" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0009" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0010" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0011" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0012" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentleft0013" x="1168" y="60" width="445" height="431" frameX="-114" frameY="-50" frameWidth="559" frameHeight="481"/>
+	<SubTexture name="Brentneutral0000" x="1673" y="60" width="419" height="420" frameX="-21" frameY="-13" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0001" x="1673" y="60" width="419" height="420" frameX="-21" frameY="-13" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0002" x="679" y="651" width="451" height="450" frameX="0" frameY="-3" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0003" x="679" y="651" width="451" height="450" frameX="0" frameY="-3" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0004" x="1673" y="540" width="414" height="414" frameX="-60" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0005" x="1673" y="540" width="414" height="414" frameX="-60" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0006" x="1671" y="1014" width="403" height="403" frameX="-76" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0007" x="1671" y="1014" width="403" height="403" frameX="-76" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0008" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0009" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0010" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0011" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0012" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentneutral0013" x="1210" y="1477" width="402" height="402" frameX="-79" frameY="0" frameWidth="481" frameHeight="453"/>
+	<SubTexture name="Brentright0000" x="60" y="60" width="551" height="531"/>
+	<SubTexture name="Brentright0001" x="60" y="60" width="551" height="531"/>
+	<SubTexture name="Brentright0002" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0003" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0004" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0005" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0006" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0007" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0008" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0009" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0010" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0011" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0012" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentright0013" x="671" y="60" width="437" height="531" frameX="0" frameY="0" frameWidth="551" frameHeight="531"/>
+	<SubTexture name="Brentup0000" x="789" y="1161" width="361" height="561" frameX="-30" frameY="0" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0001" x="789" y="1161" width="361" height="561" frameX="-30" frameY="0" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0002" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0003" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0004" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0005" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0006" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0007" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0008" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0009" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0010" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0011" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0012" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+	<SubTexture name="Brentup0013" x="1190" y="551" width="421" height="420" frameX="0" frameY="-141" frameWidth="421" frameHeight="561"/>
+</TextureAtlas>

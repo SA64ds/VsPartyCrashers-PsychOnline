@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Brent Alt Idle"
+		},
+		{
+			"offsets": [
+				34,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Brent Alt Down"
+		},
+		{
+			"offsets": [
+				60,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Brent Alt Up"
+		},
+		{
+			"offsets": [
+				233,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Brent Alt Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Brent Alt Right"
+		},
+		{
+			"offsets": [
+				60,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Block",
+			"indices": [],
+			"name": "BrentAltBlock"
+		}
+	],
+	"vocals_file": "brent",
+	"no_antialiasing": false,
+	"image": "characters/BrentAngrySprites",
+	"position": [
+		-60,
+		-140
+	],
+	"healthicon": "brent-angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		81,
+		43
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"noteSkin": "brent",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

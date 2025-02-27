@@ -1,0 +1,1501 @@
+{
+	"song": {
+		"events": [
+			[
+				100173.913043478,
+				[
+					[
+						"Change Scroll Speed",
+						"1.06",
+						"0"
+					]
+				]
+			],
+			[
+				115533.913043478,
+				[
+					[
+						"Change Scroll Speed",
+						"1.09",
+						"0"
+					]
+				]
+			],
+			[
+				129756.135265701,
+				[
+					[
+						"Change Scroll Speed",
+						"1.17",
+						"0"
+					]
+				]
+			],
+			[
+				142556.135265701,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0"
+					]
+				]
+			],
+			[
+				152556.135265701,
+				[
+					[
+						"Triggers",
+						"move",
+						""
+					],
+					[
+						"Tween Zoom",
+						"0.8",
+						"0.7"
+					]
+				]
+			],
+			[
+				153222.801932367,
+				[
+					[
+						"Change Character",
+						"dad",
+						"matt-fight"
+					],
+					[
+						"Change Character",
+						"bf",
+						"brent-mii-fight"
+					],
+					[
+						"Triggers",
+						"matt",
+						""
+					]
+				]
+			],
+			[
+				153222.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				153722.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				153889.468599034,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					]
+				]
+			],
+			[
+				154056.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				154222.801932367,
+				[
+					[
+						"Play Animation",
+						"hitDown",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				154389.468599034,
+				[
+					[
+						"Play Animation",
+						"hitUp",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				154556.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				154639.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				154889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				155056.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				155222.801932367,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				155389.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				155556.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				155722.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				155889.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Triggers",
+						"brent",
+						""
+					]
+				]
+			],
+			[
+				156389.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				156556.135265701,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					]
+				]
+			],
+			[
+				156722.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				156889.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157056.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157222.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157306.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157556.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157722.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				157889.468599034,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				158056.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				158222.801932367,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				158389.468599034,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				158556.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Triggers",
+						"matt",
+						""
+					]
+				]
+			],
+			[
+				159056.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				159222.801932367,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					]
+				]
+			],
+			[
+				159389.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				159556.135265701,
+				[
+					[
+						"Play Animation",
+						"hitDown",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				159722.801932367,
+				[
+					[
+						"Play Animation",
+						"hitUp",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				159889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				159972.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				160222.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				160389.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				160556.135265701,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				160722.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				160889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				161056.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				161222.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Triggers",
+						"brent",
+						""
+					]
+				]
+			],
+			[
+				161722.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				161889.468599034,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					]
+				]
+			],
+			[
+				162056.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				162222.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				162389.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				162556.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				162639.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Change Scroll Speed",
+						"1.35",
+						"1"
+					]
+				]
+			],
+			[
+				162889.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				163056.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				163222.801932367,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				163389.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				163556.135265701,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163722.801932367,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				163889.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				163889.468599034,
+				[
+					[
+						"Change Character",
+						"dad",
+						"matt-fight"
+					],
+					[
+						"Change Character",
+						"bf",
+						"brent-mii-fight"
+					]
+				]
+			],
+			[
+				163889.468599034,
+				[
+					[
+						"Change Character",
+						"dad",
+						"matt-fight"
+					],
+					[
+						"Change Character",
+						"bf",
+						"brent-mii-fight"
+					]
+				]
+			],
+			[
+				163889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					],
+					[
+						"Triggers",
+						"matt",
+						""
+					]
+				]
+			],
+			[
+				164156.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				164289.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				164422.801932367,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				164556.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				164689.468599034,
+				[
+					[
+						"Play Animation",
+						"hitDown",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				164822.801932367,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hitUp",
+						"bf"
+					]
+				]
+			],
+			[
+				164956.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165022.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165222.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165356.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165489.468599034,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					]
+				]
+			],
+			[
+				165622.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165756.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				165889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				166022.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Triggers",
+						"brent",
+						""
+					]
+				]
+			],
+			[
+				166422.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				166556.135265701,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				166689.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				166822.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				166956.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				167089.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				167356.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				167489.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				167622.801932367,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				167756.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				167889.468599034,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				168022.801932367,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				168156.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					],
+					[
+						"Triggers",
+						"matt",
+						""
+					]
+				]
+			],
+			[
+				168422.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				168556.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				168689.468599034,
+				[
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				168822.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				168956.135265701,
+				[
+					[
+						"Play Animation",
+						"hitDown",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				169089.468599034,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hitUp",
+						"bf"
+					]
+				]
+			],
+			[
+				169222.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				169289.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				169489.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				169622.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				169756.135265701,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hitRight",
+						"bf"
+					]
+				]
+			],
+			[
+				169889.468599034,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				170022.801932367,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				170156.135265701,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				170289.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Triggers",
+						"brent",
+						""
+					]
+				]
+			],
+			[
+				170689.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				170822.801932367,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				170956.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171089.468599034,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171222.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171356.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171622.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171756.135265701,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				171889.468599034,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				172022.801932367,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				172156.135265701,
+				[
+					[
+						"Play Animation",
+						"hit2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				172289.468599034,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				173988.019323672,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174053.236714976,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174118.45410628,
+				[
+					[
+						"Triggers",
+						"cam freeze",
+						""
+					],
+					[
+						"Set Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174509.758454106,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.07"
+					],
+					[
+						"Triggers",
+						"k o",
+						""
+					],
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				176466.280193237,
+				[
+					[
+						"Triggers",
+						"end",
+						""
+					]
+				]
+			]
+		]
+	}
+}

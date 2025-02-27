@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PeachGf.png">
+<SubTexture name="PeachGf Cry0000" x="6240" y="2142" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0001" x="6240" y="2142" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0002" x="6240" y="2854" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0003" x="6240" y="2854" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0004" x="6240" y="3566" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0005" x="6240" y="3566" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0006" x="6240" y="4278" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0007" x="6240" y="4278" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0008" x="6240" y="2142" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0009" x="6240" y="2142" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0010" x="6240" y="2854" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0011" x="6240" y="2854" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0012" x="6240" y="3566" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0013" x="6240" y="3566" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0014" x="6240" y="4278" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Cry0015" x="6240" y="4278" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0000" x="624" y="2178" width="624" height="720" frameX="-33" frameY="-18" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0001" x="624" y="2178" width="624" height="720" frameX="-33" frameY="-18" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0002" x="4992" y="2151" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0003" x="4992" y="2867" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0004" x="4992" y="3583" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0005" x="0" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0006" x="624" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0007" x="1248" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0008" x="1872" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0009" x="2496" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0010" x="3120" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0011" x="3744" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0012" x="4368" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0013" x="4992" y="4340" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Hey0014" x="5616" y="0" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0000" x="5616" y="5772" width="624" height="705" frameX="-33" frameY="-33" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0001" x="5616" y="5772" width="624" height="705" frameX="-33" frameY="-33" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0002" x="6864" y="0" width="624" height="704" frameX="-33" frameY="-34" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0003" x="6864" y="704" width="624" height="704" frameX="-33" frameY="-34" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0004" x="624" y="5772" width="624" height="710" frameX="-33" frameY="-28" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0005" x="1248" y="5772" width="624" height="710" frameX="-33" frameY="-28" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0006" x="6240" y="4990" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0007" x="1248" y="1452" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0008" x="1872" y="1452" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0009" x="2496" y="0" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0010" x="0" y="0" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0011" x="624" y="0" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0012" x="1248" y="0" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0013" x="0" y="726" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0014" x="624" y="726" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0015" x="5616" y="716" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0016" x="5616" y="1432" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0017" x="4368" y="5056" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0018" x="4992" y="5056" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0019" x="5616" y="2148" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0020" x="5616" y="2864" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0021" x="5616" y="3580" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0022" x="1248" y="2178" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0023" x="1872" y="2178" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0024" x="2496" y="2178" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0025" x="624" y="2903" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0026" x="1248" y="2903" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0027" x="1872" y="2903" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0028" x="2496" y="2903" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0029" x="3120" y="2903" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0030" x="6240" y="5772" width="624" height="705" frameX="-33" frameY="-33" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0031" x="6240" y="5772" width="624" height="705" frameX="-33" frameY="-33" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0032" x="6864" y="1408" width="624" height="704" frameX="-33" frameY="-34" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0033" x="6864" y="2112" width="624" height="704" frameX="-33" frameY="-34" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0034" x="1872" y="5772" width="624" height="710" frameX="-33" frameY="-28" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0035" x="2496" y="5772" width="624" height="710" frameX="-33" frameY="-28" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0036" x="0" y="5772" width="624" height="712" frameX="-33" frameY="-26" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0037" x="2496" y="725" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0038" x="2496" y="1450" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0039" x="0" y="2178" width="624" height="725" frameX="-33" frameY="-13" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0040" x="1248" y="726" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0041" x="1872" y="0" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0042" x="1872" y="726" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0043" x="0" y="1452" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0044" x="624" y="1452" width="624" height="726" frameX="-33" frameY="-12" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0045" x="5616" y="4296" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0046" x="0" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0047" x="5616" y="5056" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0048" x="6240" y="0" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0049" x="624" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0050" x="1248" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0051" x="1872" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0052" x="3120" y="0" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0053" x="3120" y="719" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0054" x="3120" y="1438" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0055" x="3744" y="0" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0056" x="3744" y="718" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0057" x="3744" y="1436" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0058" x="3744" y="2154" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Idle bop0059" x="3744" y="2872" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0000" x="3744" y="5056" width="624" height="715" frameX="-33" frameY="-23" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0001" x="3744" y="5056" width="624" height="715" frameX="-33" frameY="-23" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0002" x="0" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0003" x="624" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0004" x="1248" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0005" x="1872" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0006" x="3744" y="3622" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0007" x="4368" y="0" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0008" x="4368" y="717" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0009" x="4368" y="1434" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0010" x="4368" y="2151" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0011" x="4368" y="2868" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0012" x="4368" y="3585" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0013" x="4992" y="0" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0014" x="4992" y="717" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0015" x="4992" y="1434" width="624" height="717" frameX="-33" frameY="-21" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0016" x="3120" y="5772" width="624" height="707" frameX="-33" frameY="-31" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0017" x="3744" y="5772" width="624" height="707" frameX="-33" frameY="-31" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0018" x="4368" y="5772" width="624" height="706" frameX="-33" frameY="-32" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0019" x="4992" y="5772" width="624" height="706" frameX="-33" frameY="-32" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0020" x="6240" y="714" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0021" x="6240" y="1428" width="624" height="714" frameX="-33" frameY="-24" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0022" x="2496" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0023" x="3120" y="5056" width="624" height="716" frameX="-33" frameY="-22" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0024" x="3120" y="2157" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0025" x="0" y="2903" width="624" height="719" frameX="-33" frameY="-19" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0026" x="2496" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+<SubTexture name="PeachGf Kiss0027" x="3120" y="3622" width="624" height="718" frameX="-33" frameY="-20" frameWidth="703" frameHeight="748" />
+</TextureAtlas>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vernpic.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vern_danceLeft0000" x="3094" y="983" width="404" height="384" frameX="-5" frameY="-28" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0001" x="3094" y="983" width="404" height="384" frameX="-5" frameY="-28" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0002" x="2155" y="1018" width="417" height="401" frameX="0" frameY="-21" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0003" x="2155" y="1018" width="417" height="401" frameX="0" frameY="-21" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0004" x="2275" y="60" width="409" height="401" frameX="-15" frameY="-11" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0005" x="2275" y="60" width="409" height="401" frameX="-15" frameY="-11" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0006" x="2632" y="983" width="402" height="402" frameX="-30" frameY="0" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceLeft0007" x="2632" y="983" width="402" height="402" frameX="-30" frameY="0" frameWidth="432" frameHeight="422"/>
+	<SubTexture name="Vern_danceRight0000" x="2744" y="60" width="406" height="392" frameX="-16" frameY="-23" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0001" x="2744" y="60" width="406" height="392" frameX="-16" frameY="-23" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0002" x="1799" y="60" width="416" height="401" frameX="-11" frameY="-22" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0003" x="1799" y="60" width="416" height="401" frameX="-11" frameY="-22" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0004" x="2234" y="521" width="409" height="402" frameX="-5" frameY="-11" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0005" x="2234" y="521" width="409" height="402" frameX="-5" frameY="-11" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0006" x="2703" y="521" width="402" height="402" frameX="0" frameY="0" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Vern_danceRight0007" x="2703" y="521" width="402" height="402" frameX="0" frameY="0" frameWidth="427" frameHeight="423"/>
+	<SubTexture name="Verndown0000" x="1260" y="1142" width="835" height="239" frameX="0" frameY="-140" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0001" x="1260" y="1142" width="835" height="239" frameX="0" frameY="-140" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0002" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0003" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0004" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0005" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0006" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0007" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0008" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0009" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0010" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0011" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0012" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Verndown0013" x="60" y="671" width="705" height="379" frameX="-65" frameY="0" frameWidth="835" frameHeight="379"/>
+	<SubTexture name="Vernleft0000" x="729" y="60" width="553" height="481"/>
+	<SubTexture name="Vernleft0001" x="729" y="60" width="553" height="481"/>
+	<SubTexture name="Vernleft0002" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0003" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0004" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0005" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0006" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0007" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0008" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0009" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0010" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0011" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0012" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernleft0013" x="1260" y="601" width="444" height="481" frameX="-109" frameY="0" frameWidth="553" frameHeight="481"/>
+	<SubTexture name="Vernright0000" x="60" y="60" width="609" height="551" frameX="-60" frameY="0" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0001" x="60" y="60" width="609" height="551" frameX="-60" frameY="0" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0002" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0003" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0004" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0005" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0006" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0007" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0008" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0009" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0010" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0011" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0012" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernright0013" x="1342" y="60" width="397" height="428" frameX="0" frameY="-87" frameWidth="669" frameHeight="551"/>
+	<SubTexture name="Vernup0000" x="825" y="601" width="375" height="571" frameX="-18" frameY="0" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0001" x="825" y="601" width="375" height="571" frameX="-18" frameY="0" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0002" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0003" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0004" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0005" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0006" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0007" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0008" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0009" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0010" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0011" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0012" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+	<SubTexture name="Vernup0013" x="1764" y="548" width="410" height="410" frameX="0" frameY="-160" frameWidth="410" frameHeight="571"/>
+</TextureAtlas>

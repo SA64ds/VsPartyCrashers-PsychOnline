@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eeveepic.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SophistDown0000" x="1031" y="611" width="529" height="346" frameX="0" frameY="-145" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0001" x="1031" y="611" width="529" height="346" frameX="0" frameY="-145" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0002" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0003" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0004" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0005" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0006" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0007" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0008" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0009" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0010" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0011" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0012" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistDown0013" x="1128" y="60" width="437" height="491" frameX="-46" frameY="0" frameWidth="529" frameHeight="491"/>
+	<SubTexture name="SophistLeft0000" x="573" y="60" width="495" height="443" frameX="0" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0001" x="573" y="60" width="495" height="443" frameX="0" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0002" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0003" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0004" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0005" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0006" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0007" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0008" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0009" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0010" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0011" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0012" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistLeft0013" x="60" y="613" width="436" height="443" frameX="-61" frameY="0" frameWidth="497" frameHeight="443"/>
+	<SubTexture name="SophistNeutral0000" x="60" y="1614" width="402" height="374" frameX="-14" frameY="-32" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0001" x="60" y="1614" width="402" height="374" frameX="-14" frameY="-32" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0002" x="1022" y="1136" width="420" height="391" frameX="0" frameY="-34" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0003" x="1022" y="1136" width="420" height="391" frameX="0" frameY="-34" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0004" x="1022" y="1587" width="404" height="401" frameX="-24" frameY="-3" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0005" x="1022" y="1587" width="404" height="401" frameX="-24" frameY="-3" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0006" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0007" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0008" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0009" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0010" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0011" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0012" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="SophistNeutral0013" x="1502" y="1017" width="402" height="402" frameX="-27" frameY="0" frameWidth="429" frameHeight="425"/>
+	<SubTexture name="Sophistright0000" x="60" y="60" width="453" height="493"/>
+	<SubTexture name="Sophistright0001" x="60" y="60" width="453" height="493"/>
+	<SubTexture name="Sophistright0002" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0003" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0004" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0005" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0006" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0007" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0008" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0009" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0010" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0011" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0012" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistright0013" x="577" y="1136" width="385" height="493" frameX="0" frameY="0" frameWidth="453" frameHeight="493"/>
+	<SubTexture name="Sophistup0000" x="573" y="563" width="398" height="513" frameX="-30" frameY="0" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0001" x="573" y="563" width="398" height="513" frameX="-30" frameY="0" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0002" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0003" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0004" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0005" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0006" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0007" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0008" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0009" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0010" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0011" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0012" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+	<SubTexture name="Sophistup0013" x="60" y="1136" width="457" height="418" frameX="0" frameY="-95" frameWidth="457" frameHeight="513"/>
+</TextureAtlas>

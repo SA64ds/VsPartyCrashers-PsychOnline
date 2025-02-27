@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow_right.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow push right0000" x="20" y="115" width="41" height="74"/>
+	<SubTexture name="arrow right0000" x="20" y="20" width="47" height="85"/>
+</TextureAtlas>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BrentAngrySprites.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Brent Alt Down0000" x="1420" y="936" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0001" x="1420" y="936" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0002" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0003" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0004" x="2456" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0005" x="2456" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0006" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0007" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0008" x="2974" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0009" x="2974" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0010" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0011" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0012" x="2974" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0013" x="2974" y="924" width="508" height="849"/>
+	<SubTexture name="Brent Alt Down0014" x="1938" y="932" width="508" height="849"/>
+	<SubTexture name="Brent Alt Idle0000" x="2761" y="1783" width="427" height="945" frameX="0" frameY="0" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0001" x="2761" y="1783" width="427" height="945" frameX="0" frameY="0" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0002" x="1766" y="2748" width="437" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0003" x="1766" y="2748" width="437" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0004" x="1420" y="1795" width="444" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0005" x="1420" y="1795" width="444" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0006" x="1874" y="1795" width="439" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0007" x="1874" y="1795" width="439" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0008" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0009" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0010" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0011" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0012" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Idle0013" x="2323" y="1791" width="428" height="943" frameX="0" frameY="-1" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="Brent Alt Left0000" x="10" y="10" width="856" height="921"/>
+	<SubTexture name="Brent Alt Left0001" x="10" y="10" width="856" height="921"/>
+	<SubTexture name="Brent Alt Left0002" x="10" y="941" width="834" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0003" x="10" y="941" width="834" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0004" x="876" y="10" width="823" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0005" x="876" y="10" width="823" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0006" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0007" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0008" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0009" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0010" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0011" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0012" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0013" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Left0014" x="10" y="1867" width="811" height="916" frameX="-2" frameY="-5" frameWidth="856" frameHeight="921"/>
+	<SubTexture name="Brent Alt Right0000" x="632" y="2793" width="558" height="901" frameX="-1" frameY="0" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0001" x="632" y="2793" width="558" height="901" frameX="-1" frameY="0" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0002" x="831" y="1867" width="557" height="897" frameX="0" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0003" x="831" y="1867" width="557" height="897" frameX="0" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0004" x="1200" y="2774" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0005" x="1200" y="2774" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0006" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0007" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0008" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0009" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0010" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0011" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0012" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0013" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Right0014" x="854" y="941" width="556" height="897" frameX="-1" frameY="-4" frameWidth="559" frameHeight="901"/>
+	<SubTexture name="Brent Alt Up0000" x="1709" y="10" width="610" height="912" frameX="0" frameY="0" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0001" x="1709" y="10" width="610" height="912" frameX="0" frameY="0" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0002" x="2329" y="10" width="610" height="904" frameX="0" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0003" x="2329" y="10" width="610" height="904" frameX="0" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0004" x="2949" y="10" width="605" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0005" x="2949" y="10" width="605" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0006" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0007" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0008" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0009" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0010" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0011" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0012" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0013" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="Brent Alt Up0014" x="10" y="2793" width="612" height="904" frameX="-9" frameY="-8" frameWidth="621" frameHeight="912"/>
+	<SubTexture name="BrentAltBlock0000" x="2762" y="2738" width="553" height="637" frameX="0" frameY="-33" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0001" x="2762" y="2738" width="553" height="637" frameX="0" frameY="-33" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0002" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0003" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0004" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0005" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0006" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0007" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0008" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0009" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0010" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0011" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0012" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0013" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+	<SubTexture name="BrentAltBlock0014" x="2213" y="2748" width="539" height="671" frameX="-7" frameY="0" frameWidth="553" frameHeight="671"/>
+</TextureAtlas>

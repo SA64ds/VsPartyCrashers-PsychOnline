@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nickneutral"
+		},
+		{
+			"offsets": [
+				-63,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nickdown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				77
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nickup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nickright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-82
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nickleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-76,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "nickmissdown"
+		},
+		{
+			"offsets": [
+				-28,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "nickmissup"
+		},
+		{
+			"offsets": [
+				99,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "nickmissleft"
+		},
+		{
+			"offsets": [
+				-47,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "nickmissright"
+		}
+	],
+	"vocals_file": "nick",
+	"no_antialiasing": false,
+	"image": "characters/tcnick",
+	"position": [
+		-100,
+		-20
+	],
+	"healthicon": "nick",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		183,
+		58
+	],
+	"camera_position": [
+		20,
+		130
+	],
+	"noteSkin": "nick",
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

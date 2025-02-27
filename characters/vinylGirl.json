@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Lef",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-90
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				90
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "vinyl",
+	"no_antialiasing": false,
+	"image": "characters/vg",
+	"position": [
+		-50,
+		60
+	],
+	"healthicon": "vinyl",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		47,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"noteSkin": "vinyl",
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

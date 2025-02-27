@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mattster Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mattster Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mattster Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mattster Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				96
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mattster Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-56
+			],
+			"anim": "Block",
+			"fps": 24,
+			"name": "Mattster Block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				137
+			],
+			"anim": "Uppercut",
+			"fps": 24,
+			"name": "Mattster Uhit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				27
+			],
+			"anim": "Hit",
+			"fps": 24,
+			"name": "Mattster Hit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mattster",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

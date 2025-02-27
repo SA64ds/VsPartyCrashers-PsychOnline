@@ -1,0 +1,70 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KBooIdle"
+		},
+		{
+			"offsets": [
+				10,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enterance",
+			"indices": [],
+			"name": "KBooEntrance"
+		},
+		{
+			"offsets": [
+				220,
+				336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "KBooLaugh"
+		},
+		{
+			"offsets": [
+				21,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "summon",
+			"indices": [],
+			"name": "KBooSummon"
+		}
+	],
+	"vocals_file": "bf",
+	"no_antialiasing": false,
+	"image": "stages/horrorLand/KBoo",
+	"position": [
+		-10,
+		170
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-380,
+		10
+	],
+	"noteSkin": "",
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

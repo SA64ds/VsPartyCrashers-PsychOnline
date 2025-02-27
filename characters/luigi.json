@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				10,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-30,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-9,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-47,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "luigi",
+	"no_antialiasing": false,
+	"image": "characters/",
+	"position": [
+		-10,
+		280
+	],
+	"healthicon": "luigi",
+	"flip_x": true,
+	"healthbar_colors": [
+		105,
+		196,
+		96
+	],
+	"camera_position": [
+		40,
+		20
+	],
+	"noteSkin": "luigi",
+	"sing_duration": 4,
+	"scale": 0.85,
+	"_editor_isPlayer": true
+}

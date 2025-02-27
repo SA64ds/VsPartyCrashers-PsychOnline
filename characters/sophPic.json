@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SophistNeutral",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SophistDown"
+		},
+		{
+			"offsets": [
+				30,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sophistup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SophistLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sophistright",
+			"indices": []
+		}
+	],
+	"vocals_file": "player",
+	"no_antialiasing": false,
+	"image": "characters/eeveepic",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "eeveepic",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		46,
+		121
+	],
+	"camera_position": [
+		-10,
+		-50
+	],
+	"noteSkin": "sophist",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

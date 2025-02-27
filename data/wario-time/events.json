@@ -1,0 +1,601 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				83.3333333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				166.666666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				333.333333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				416.666666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				583.333333333333,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				666.666666666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				833.333333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				916.666666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1083.33333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1166.66666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1333.33333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1416.66666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Triggers",
+						"car",
+						""
+					]
+				]
+			],
+			[
+				68500,
+				[
+					[
+						"Triggers",
+						"car end",
+						""
+					]
+				]
+			],
+			[
+				68666.6666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				69166.6666666667,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				69333.3333333334,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"wario"
+					]
+				]
+			],
+			[
+				96333.3333333333,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"sophist"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"luigi"
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				186166.666666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				186333.333333334,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				186416.666666667,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				186500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				186583.333333334,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				186666.666666667,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"wario"
+					]
+				]
+			],
+			[
+				197666.666666667,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"brent"
+					]
+				]
+			],
+			[
+				210666.666666667,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"sophist"
+					]
+				]
+			],
+			[
+				221333.333333334,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"luigi"
+					]
+				]
+			],
+			[
+				232000.000000001,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"wario"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				232083.333333334,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				232166.666666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				232250.000000001,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				242666.666666667,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"brent"
+					]
+				]
+			],
+			[
+				244000.000000001,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"sophist"
+					]
+				]
+			],
+			[
+				245333.333333334,
+				[
+					[
+						"Change Noteskin",
+						"bf",
+						"wario"
+					]
+				]
+			],
+			[
+				247000.000000001,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"GF"
+					]
+				]
+			],
+			[
+				247333.333333334,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				247750.000000001,
+				[
+					[
+						"Play Animation",
+						"singRight",
+						"GF"
+					]
+				]
+			],
+			[
+				247833.333333334,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				247958.333333334,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248083.333333334,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				248250.000000001,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248333.333333334,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248416.666666667,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248500.000000001,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248583.333333334,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248666.666666667,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248750.000000001,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248833.333333334,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				248916.666666667,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				249000.000000001,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			],
+			[
+				249083.333333334,
+				[
+					[
+						"Play Animation",
+						"singDown",
+						"GF"
+					]
+				]
+			]
+		]
+	}
+}

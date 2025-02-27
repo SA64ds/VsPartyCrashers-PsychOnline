@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				165333.333333333,
+				[
+					[
+						"Change Character",
+						"bbf",
+						"Vernias-angy-player"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

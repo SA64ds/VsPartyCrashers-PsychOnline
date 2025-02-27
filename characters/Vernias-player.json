@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Vern_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				294
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Vern_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				299
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Vern_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				305
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Vern_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				397
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Vern_Up",
+			"indices": []
+		}
+	],
+	"vocals_file": "vernias",
+	"no_antialiasing": false,
+	"image": "characters/Vernias",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "vernias",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		209
+	],
+	"camera_position": [
+		20,
+		-350
+	],
+	"noteSkin": "vernias",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

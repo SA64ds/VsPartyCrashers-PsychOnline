@@ -1,0 +1,271 @@
+{
+	"song": {
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				24882.3529411765,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				25588.2352941176,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				26294.1176470588,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				27705.8823529412,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				35294.1176470588,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				36882.3529411765,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				38117.6470588235,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				38823.5294117647,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				39529.4117647059,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				57529.4117647058,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				80294.1176470587,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				91764.7058823528,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				92647.0588235293,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				93352.9411764705,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				93882.3529411763,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				95470.588235294,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				104647.058823529,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				106588.235294117,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
+				107470.588235294,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Change Noteskin",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Triggers",
+						"end",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

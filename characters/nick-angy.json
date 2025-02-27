@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nickangryidle"
+		},
+		{
+			"offsets": [
+				-10,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nickangrydown"
+		},
+		{
+			"offsets": [
+				-4,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nickangryup"
+		},
+		{
+			"offsets": [
+				-57,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nickangryright"
+		},
+		{
+			"offsets": [
+				-3,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NickAngryLeft"
+		},
+		{
+			"offsets": [
+				10,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Sheild",
+			"indices": [],
+			"name": "NickSheild"
+		},
+		{
+			"offsets": [
+				41,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Parry",
+			"indices": [],
+			"name": "NickParry"
+		}
+	],
+	"vocals_file": "nick",
+	"no_antialiasing": false,
+	"image": "characters/Nickangy",
+	"position": [
+		-70,
+		-20
+	],
+	"healthicon": "nick-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		183,
+		58
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"noteSkin": "nick",
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

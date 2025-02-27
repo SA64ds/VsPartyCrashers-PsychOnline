@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Brent Mii Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Brent Mii Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Brent Mii Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Brent Mii Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Brent Mii Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Brent Mii Lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-51
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Brent Mii Dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				32
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Brent Mii Umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Brent Mii Rmiss",
+			"indices": []
+		}
+	],
+	"vocals_file": "brent",
+	"no_antialiasing": false,
+	"image": "characters/Brent Mii",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "brent",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		81,
+		43
+	],
+	"camera_position": [
+		90,
+		50
+	],
+	"noteSkin": "brent-mii",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

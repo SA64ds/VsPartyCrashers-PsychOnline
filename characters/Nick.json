@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nickneutral"
+		},
+		{
+			"offsets": [
+				17,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nickdown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nickup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-81
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nickleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nickright",
+			"indices": []
+		}
+	],
+	"vocals_file": "nick",
+	"no_antialiasing": false,
+	"image": "characters/tcnick",
+	"position": [
+		-40,
+		-30
+	],
+	"healthicon": "nick",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		183,
+		58
+	],
+	"camera_position": [
+		10,
+		70
+	],
+	"noteSkin": "nick",
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

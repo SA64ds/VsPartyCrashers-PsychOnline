@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="REDEVIL.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red angre0000" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0001" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0002" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0003" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0004" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0005" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0006" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0007" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0008" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0009" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0010" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0011" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0012" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0013" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0014" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0015" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0016" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0017" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0018" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0019" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0020" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0021" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0022" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0023" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0024" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0025" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0026" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0027" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0028" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0029" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0030" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0031" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0032" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0033" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0034" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0035" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0036" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0037" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0038" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0039" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0040" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0041" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0042" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0043" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0044" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0045" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0046" x="10" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0047" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0048" x="1066" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0049" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0050" x="2122" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0051" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0052" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0053" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0054" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0055" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0056" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0057" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0058" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0059" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0060" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0061" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0062" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0063" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0064" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0065" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0066" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0067" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0068" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0069" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0070" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0071" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0072" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0073" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0074" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0075" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0076" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0077" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0078" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0079" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0080" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0081" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0082" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0083" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0084" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0085" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0086" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0087" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0088" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0089" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0090" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0091" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0092" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0093" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0094" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0095" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0096" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0097" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0098" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0099" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0100" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0101" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0102" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0103" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0104" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0105" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0106" x="3178" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0107" x="4234" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0108" x="4234" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0109" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0110" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0111" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0112" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0113" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0114" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0115" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0116" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0117" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0118" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0119" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0120" x="5290" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0121" x="6346" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0122" x="6346" y="10" width="1046" height="750"/>
+	<SubTexture name="red angre0123" x="10" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0124" x="10" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0125" x="1066" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0126" x="1066" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0127" x="2122" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0128" x="2122" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0129" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0130" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0131" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0132" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0133" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0134" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0135" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0136" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0137" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0138" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0139" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0140" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0141" x="4234" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0142" x="5290" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0143" x="6346" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0144" x="6346" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0145" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0146" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0147" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0148" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0149" x="10" y="1530" width="1046" height="750"/>
+	<SubTexture name="red angre0150" x="1066" y="1530" width="1046" height="750"/>
+	<SubTexture name="red angre0151" x="6346" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0152" x="6346" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0153" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0154" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0155" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0156" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0157" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0158" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0159" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0160" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="red angre0161" x="3178" y="770" width="1046" height="750"/>
+	<SubTexture name="redimpo ayy0000" x="2122" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0001" x="2122" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0002" x="2741" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0003" x="2741" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0004" x="3360" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0005" x="3360" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0006" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0007" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0008" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0009" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0010" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0011" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0012" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0013" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0014" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0015" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0016" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0017" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0018" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0019" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0020" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0021" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0022" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo ayy0023" x="3979" y="1530" width="609" height="357"/>
+	<SubTexture name="redimpo confirm0000" x="4598" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0001" x="4598" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0002" x="4950" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0003" x="4950" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0004" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0005" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0006" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0007" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0008" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0009" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0010" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0011" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0012" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo confirm0013" x="5302" y="1530" width="342" height="273"/>
+	<SubTexture name="redimpo dance0000" x="5654" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0001" x="5654" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0002" x="6114" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0003" x="6114" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0004" x="6574" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0005" x="6574" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0006" x="7034" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0007" x="7034" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0008" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0009" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0010" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0011" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0012" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dance0013" x="7494" y="1530" width="450" height="322"/>
+	<SubTexture name="redimpo dies0000" x="10" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0001" x="1201" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0002" x="2392" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0003" x="3583" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0004" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0005" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0006" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0007" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0008" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0009" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0010" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0011" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0012" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0013" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0014" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0015" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0016" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0017" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0018" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0019" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0020" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0021" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0022" x="5965" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0023" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0024" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0025" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0026" x="4774" y="2290" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0027" x="10" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0028" x="10" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0029" x="1201" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0030" x="1201" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0031" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0032" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0033" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0034" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0035" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0036" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0037" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0038" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0039" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0040" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0041" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0042" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0043" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0044" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0045" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0046" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0047" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0048" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0049" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0050" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo dies0051" x="2392" y="2853" width="1181" height="553"/>
+	<SubTexture name="redimpo gameover0000" x="3583" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0001" x="3583" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0002" x="3846" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0003" x="3846" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0004" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0005" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0006" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0007" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0008" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0009" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0010" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0011" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0012" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo gameover0013" x="4109" y="2853" width="253" height="240"/>
+	<SubTexture name="redimpo left0000" x="4372" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0001" x="4372" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0002" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0003" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0004" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0005" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0006" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0007" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0008" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0009" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0010" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0011" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0012" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0013" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo left0014" x="4856" y="2853" width="474" height="343"/>
+	<SubTexture name="redimpo miss down0000" x="5340" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0001" x="5906" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0002" x="5906" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0003" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0004" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0005" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0006" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0007" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0008" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0009" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0010" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0011" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0012" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss down0013" x="6472" y="2853" width="556" height="281"/>
+	<SubTexture name="redimpo miss left0000" x="7038" y="2853" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0001" x="7524" y="2853" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0002" x="7524" y="2853" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0003" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0004" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0005" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0006" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0007" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0008" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0009" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0010" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0011" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0012" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss left0013" x="10" y="3416" width="476" height="345"/>
+	<SubTexture name="redimpo miss right0000" x="496" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0001" x="1026" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0002" x="1026" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0003" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0004" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0005" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0006" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0007" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0008" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0009" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0010" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0011" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0012" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss right0013" x="1556" y="3416" width="520" height="342"/>
+	<SubTexture name="redimpo miss up0000" x="2086" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0001" x="2569" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0002" x="2569" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0003" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0004" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0005" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0006" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0007" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0008" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0009" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0010" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0011" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0012" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo miss up0013" x="3052" y="3416" width="473" height="395"/>
+	<SubTexture name="redimpo predeath0000" x="3535" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0001" x="3535" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0002" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0003" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0004" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0005" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0006" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0007" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0008" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0009" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0010" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0011" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0012" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0013" x="4216" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0014" x="4897" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0015" x="4897" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0016" x="5578" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0017" x="5578" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0018" x="6259" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0019" x="6259" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0020" x="6940" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0021" x="6940" y="3416" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0022" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0023" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0024" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0025" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0026" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0027" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0028" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0029" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0030" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0031" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0032" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0033" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0034" x="691" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0035" x="691" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0036" x="1372" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0037" x="1372" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0038" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0039" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0040" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0041" x="10" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0042" x="2053" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0043" x="2053" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0044" x="2734" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0045" x="2734" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0046" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0047" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0048" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0049" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0050" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0051" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0052" x="3415" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0053" x="4096" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0054" x="4096" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0055" x="4777" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0056" x="4777" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0057" x="5458" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0058" x="5458" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0059" x="6139" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0060" x="6139" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0061" x="6139" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0062" x="6139" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0063" x="6820" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0064" x="6820" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0065" x="7501" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0066" x="7501" y="3870" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0067" x="10" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0068" x="10" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0069" x="691" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0070" x="691" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0071" x="1372" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0072" x="1372" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0073" x="1372" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0074" x="1372" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0075" x="1372" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0076" x="2053" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0077" x="2053" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0078" x="2734" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0079" x="2734" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0080" x="3415" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0081" x="3415" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0082" x="4096" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0083" x="4096" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0084" x="4777" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0085" x="4777" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0086" x="5458" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0087" x="5458" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0088" x="6139" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo predeath0089" x="6139" y="4324" width="671" height="444"/>
+	<SubTexture name="redimpo rage kill0000" x="6820" y="4324" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0001" x="6820" y="4324" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0002" x="7497" y="4324" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0003" x="7497" y="4324" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0004" x="10" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0005" x="10" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0006" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0007" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0008" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0009" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0010" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0011" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0012" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0013" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0014" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0015" x="687" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0016" x="1364" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0017" x="1364" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0018" x="2041" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0019" x="2041" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0020" x="2718" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0021" x="2718" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0022" x="3395" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0023" x="3395" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0024" x="4072" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0025" x="4749" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0026" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0027" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0028" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0029" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0030" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0031" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0032" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0033" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0034" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0035" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0036" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0037" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0038" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0039" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo rage kill0040" x="5426" y="4778" width="667" height="335"/>
+	<SubTexture name="redimpo right0000" x="6103" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0001" x="6103" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0002" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0003" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0004" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0005" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0006" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0007" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0008" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0009" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0010" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0011" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0012" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0013" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo right0014" x="6632" y="4778" width="519" height="335"/>
+	<SubTexture name="redimpo shoot innocents0000" x="7161" y="4778" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0001" x="7161" y="4778" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0002" x="10" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0003" x="10" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0004" x="576" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0005" x="576" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0006" x="1142" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0007" x="1142" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0008" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0009" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0010" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0011" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0012" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0013" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0014" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0015" x="1708" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0016" x="2274" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0017" x="2274" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0018" x="2840" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0019" x="2840" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0020" x="3406" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0021" x="3406" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0022" x="3972" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0023" x="3972" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0024" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0025" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0026" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0027" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0028" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0029" x="4538" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0030" x="5104" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0031" x="5104" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0032" x="5670" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0033" x="5670" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0034" x="6236" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0035" x="6236" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0036" x="6802" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0037" x="6802" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0038" x="7368" y="5147" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0039" x="10" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0040" x="576" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0041" x="1142" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0042" x="1142" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0043" x="1708" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0044" x="1708" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0045" x="2274" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0046" x="2274" y="5516" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0047" x="7161" y="4778" width="556" height="359"/>
+	<SubTexture name="redimpo shoot innocents0048" x="7161" y="4778" width="556" height="359"/>
+	<SubTexture name="redimpo up0000" x="2840" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0001" x="2840" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0002" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0003" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0004" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0005" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0006" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0007" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0008" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0009" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0010" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0011" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0012" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0013" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpo up0014" x="3323" y="5516" width="473" height="396"/>
+	<SubTexture name="redimpodown0000" x="3806" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0001" x="3806" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0002" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0003" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0004" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0005" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0006" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0007" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0008" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0009" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0010" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0011" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0012" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0013" x="4368" y="5516" width="552" height="278"/>
+	<SubTexture name="redimpodown0014" x="4368" y="5516" width="552" height="278"/>
+</TextureAtlas>

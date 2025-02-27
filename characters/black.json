@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				182,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "black up"
+		},
+		{
+			"offsets": [
+				-82,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "black right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "black left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "black dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				30
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "black turn",
+			"indices": []
+		}
+	],
+	"vocals_file": "red",
+	"no_antialiasing": false,
+	"image": "characters/skeld_black",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		0,
+		120
+	],
+	"camera_position": [
+		220,
+		20
+	],
+	"noteSkin": "",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
